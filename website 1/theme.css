@@ -1,0 +1,60 @@
+body {
+	font-family: Arial;
+	background-color: #F7f4f4;
+	text-align: center;
+	background-image: url(rabbit.jpg)
+}
+
+h1 {
+	color: #E4A7AF;
+	text-align: center;
+	font-weight: bold
+}
+
+p {
+	font-size: 19px;
+	font-weight: 500 ;
+	line-height: 2em;
+	text-indent: 50px;
+	margin-bottom: 40px;
+	color: #B382B2;
+	
+}
+
+h2 {
+	font-weight:bolder;
+	color:#E5B5B2
+}
+
+a { 
+color: #C45F6D
+}
+
+ul {
+	color: #b96dae;
+	font-size: 19px;
+	
+}
+
+ol {
+	color: #b96dae;
+	font-size: 19px
+}
+
+img {
+	border: 5px solid #f9d9d9
+}
+
+div {
+	width:700px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #F7eeee;
+	padding: 40px;
+	border: 5px solid #E5B5B2;
+
+}
+
+div.list {
+	font-size: 200px
+}
